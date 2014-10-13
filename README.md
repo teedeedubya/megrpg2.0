@@ -19,4 +19,4 @@ MIT
 ## Author Information
 
 Tony Welder
-Tony.wvoip@gmail.com
+tony.wvoip@gmail.com
