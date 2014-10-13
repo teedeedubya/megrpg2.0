@@ -10,7 +10,7 @@
 
 ## installation 
 
-- copy the megrpg2.0 in a directory your webserver is serving and hit  URL/megrpg2.0/megrpg2.html 
+- copy megrpg2.0 in a directory your webserver is serving and hit  URL/megrpg2.0/megrpg2.html 
 
 ## License
 
